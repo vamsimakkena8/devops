@@ -1,1 +1,1 @@
-this is sample maven java devops project
+this is sample maven java devops project(sample)
